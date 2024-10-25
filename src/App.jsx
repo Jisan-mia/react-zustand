@@ -1,10 +1,11 @@
 import './App.css'
+import BearComponent from './zustand'
 
 function App() {
 
   return (
     <>
-      hi there
+      <BearComponent />
     </>
   )
 }
